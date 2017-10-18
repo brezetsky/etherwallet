@@ -1108,4 +1108,9 @@
 "symbol":"ZST",
 "decimal":8,
 "type":"default"
+},{
+"address":"0x427e4f8903ba5bbb08ddc9186da285e6b18da588",
+"symbol":"AAA17",
+"decimal":18,
+"type":"default"
 }]
